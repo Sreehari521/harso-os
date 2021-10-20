@@ -5,7 +5,7 @@
 
 **You should save harso-os in C:\Users\UserName\Desktop\harso-os**
 
-**harso-os is licensed under the MIT license.**
+**harso-os is licensed under the GNU General Public License v3.0.**
 
 **harso-os is only made for education purposes.**
 
